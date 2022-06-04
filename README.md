@@ -1,4 +1,5 @@
-# code set for open domain question answering systems and other efficiency models
+# Code set for open domain question answering systems and other efficiency models
+ODQA Systems:  
 DrQA: https://github.com/facebookresearch/DrQA  
 ORQA: https://github.com/google-research/language/tree/master/language/orqa  
 DPR: https://github.com/facebookresearch/DPR  
@@ -12,6 +13,7 @@ deformer: https://github.com/StonyBrookNLP/deformer
 BPR: https://github.com/studio-ousia/bpr  
 APE: https://github.com/uclnlp/APE  
 GAR: https://github.com/morningmoni/GAR  
+Other Efficient Models:  
 CoFi: https://github.com/princeton-nlp/CoFiPruning  
 Block pruning: https://github.com/huggingface/nn_pruning  
 Block skim: https://paperswithcode.com/paper/block-skim-efficient-question-answering-for#code  
