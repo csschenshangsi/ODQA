@@ -1,6 +1,6 @@
 # code set for open domain question answering
-DrQA: https://github.com/facebookresearch/DrQA
-ORQA: https://github.com/google-research/language/tree/master/language/orqa
+DrQA: https://github.com/facebookresearch/DrQA  
+ORQA: https://github.com/google-research/language/tree/master/language/orqa  
 DPR: https://github.com/facebookresearch/DPR
 RocketQA: https://github.com/PaddlePaddle/RocketQA
 T5: https://github.com/google-research/google-research/tree/master/t5_closed_book_qa
