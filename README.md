@@ -1,4 +1,4 @@
-# code set for open domain question answering
+# code set for open domain question answering systems and other efficiency models
 DrQA: https://github.com/facebookresearch/DrQA  
 ORQA: https://github.com/google-research/language/tree/master/language/orqa  
 DPR: https://github.com/facebookresearch/DPR  
