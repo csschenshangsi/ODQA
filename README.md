@@ -25,3 +25,4 @@ Colbert: https://github.com/stanford-futuredata/ColBERT
 poly-encoder: https://github.com/sfzhou5678/PolyEncoder  
 PAQ：https:// github.com/facebookresearch/PAQ  
 EMDR2: https://github.com/DevSinghSachan/emdr2  
+Bert-serini: https://github.com/castorini/bertserini
