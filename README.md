@@ -23,7 +23,7 @@ MiniLM: https://aka.ms/minilm
 Mobilebert: https://github.com/google-research/google-research/tree/master/mobilebert  
 Colbert: https://github.com/stanford-futuredata/ColBERT  
 poly-encoder: https://github.com/sfzhou5678/PolyEncoder  
-PAQ：https:// github.com/facebookresearch/PAQ  
+PAQ：https://github.com/facebookresearch/PAQ  
 EMDR2: https://github.com/DevSinghSachan/emdr2  
 Bert-serini: https://github.com/castorini/bertserini  
 DrBoost: https://github.com/facebookresearch/drboost
