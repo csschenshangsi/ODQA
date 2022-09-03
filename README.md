@@ -28,4 +28,4 @@ EMDR2: https://github.com/DevSinghSachan/emdr2
 Bert-serini: https://github.com/castorini/bertserini  
 DrBoost: https://github.com/facebookresearch/drboost
 UnitedQA: https://github.com/microsoft/unitedQA  
-R2-D2:  
+R2-D2: https://github.com/KNOT-FIT-BUT/R2-D2  
